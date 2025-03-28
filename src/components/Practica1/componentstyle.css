@@ -1,0 +1,9 @@
+.component-div {
+    text-align: left;
+    border: solid 2px white;
+    margin: 5px;
+    padding: 20px;
+}
+.author {
+    text-align: center;
+}
